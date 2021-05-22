@@ -1,0 +1,24 @@
+1.
+ 1.
+  A partir du tracé de g:
+  L'instant optimal est celui pour lequel g(no)!=0 et pour tout k 
+  g(no+kNs)=0
+  Donc pour le premier modulateur cela correspond à Ns ( le sommet du triangle) et pour le deuxième modulateur cela correspond à 1.
+
+  A partir du diagramme de l'oeil:
+  Dans un diagramme de l'oeil, le point qui vérifie le critère de Nyquist
+  est celui qui a la même multiplicité que le mapping.
+  On retrouve donc bien les mêmes résultats.
+
+  2. On a un taux d'erreur binaire non nul dû à l'interference entre symboles.
+
+2.
+ 1.
+ Pour BW= 4000Hz:
+ On conserve la partie utile du signal qui verifie le critère de Nyquist donc le signal obtenu respecte le critère de Nyquist.
+ Pour Bw=1000Hz:
+ Le filtre Hc coupe la partie utile du signal donc on ne pourras pas réobtenir le signal de depart.
+ 2.Pour BW=4000Hz:
+ Il existe un Point dans le diagramme de l'oeil qui a la même multiplicité que le mapping de départ. Donc le critère de Nyquist peut être verifier.
+  Pour BW=1000Hz:
+ Il n'existe pas de tel point donc le critère de Nyquist ne peut pas etre verifié.

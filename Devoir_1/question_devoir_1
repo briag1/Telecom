@@ -1,0 +1,10 @@
+le classement par ordre d'efficcité spectrale decroissante des modulateurs est le suivant:
+    - modulateur4
+    - modulateur 2
+    - modulateur 1
+    - modulateur 3
+l'efficacite spectrale est:
+    inversement proportionnnel à B la largeur de bande
+    proportionnel au debit binnaire
+    proptionnel au nombre de symboles possibles
+    
